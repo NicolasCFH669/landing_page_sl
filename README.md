@@ -43,3 +43,4 @@ Favicons will automatically be generated from a single source file. Your favicon
 We are shipping our templates with Webpack to let you quickly get into the development process, but we don't discourage you from using any other build tool. So, please note that any request dealing with Webpack (e.g. extra features, customisations, et cetera) is to be considered out of the support scope.
 
 For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
+"# landing_page_sl" 
